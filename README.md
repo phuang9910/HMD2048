@@ -20,9 +20,9 @@ src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js">
     </div>
     <div class="row">
     	<div class="col-12 text-center">
-            <h6> Maximum Length </h6>
+            <h6> Maximum Roll Length </h6>
             <input type="text" id="maxLength" name="maxLength" value=""><br> <br>
-            <h6>Preferred Height</h6>
+            <h6>Preferred Installation Height</h6>
             <input type="text" id="preHeight" name="preHeight" value=""><br><br>
             <button type="button" id="calculate" onclick="calculate();">Calculate</button> <br> <BR> <BR>
         </div>
