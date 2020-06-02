@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <title>Bootstrap Example</title>
@@ -18,7 +17,7 @@ src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js">
 <body>
 
     <div class="row">
-        <BR><BR>
+        <BR>
     </div>
     <div class="row">
     	<div class="col-12 text-center">
