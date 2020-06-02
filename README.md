@@ -1,4 +1,4 @@
-﻿<html lang="en">
+<html lang="en">
 <head>
     <title>HMD2048 Calculation</title>
     <meta charset="utf-8">
@@ -48,7 +48,6 @@
         </div>
         <br> <br>
 
-        </form>
     </body>
     <script>
 
@@ -159,7 +158,7 @@
     function execute(){
         document.getElementById("title").style.color= "red"
         document.getElementById("title").innerHTML= "Thank you! Have a nice day :)"
-    }</script>
-
-
+    }
+    
+    </script>
 </html>
