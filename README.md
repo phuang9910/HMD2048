@@ -27,26 +27,16 @@ src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js">
             <input type="text" id="preHeight" name="preHeight" value=""><br><br>
             <button type="button" id="calculate" onclick="calculate();">Calculate</button> <br> <BR> <BR>
         </div>
-        <!--
-        <div class="col-5 text-left">
-            <h6>Lens Focus Length:</h6>
-            <input type="text" id="lensFocus" name="lensFocus" value="Focus Length" disabled><br> <br>
-            <h6>Installation Height:</h6>
-            <input type="text" id="instHeight" name="instHeight" value="Installation Height" disabled><br><br>
-            <h6> Calculated Field of View: </h6>
-            <input type="text" id="calcfov" name="calcfov" value="Field of View" disabled><br><br>
-            <button type="button"  id="execute" onclick="execute();"> Execute </button>
-        </div>
-        -->
+
     </div>
 
     <div class="row">
         <div class="col-12 text-center">
-            <h6>Lens Focus Length (mm):</h6>
+            <h6>Lens Focus Length (mm)</h6>
             <input type="text" id="lensFocus" name="lensFocus" value="Focus Length" disabled><br> <br>
-            <h6>Installation Height (mm) :</h6>
+            <h6>Installation Height (mm)</h6>
             <input type="text" id="instHeight" name="instHeight" value="Installation Height" disabled><br><br>
-            <h6> Calculated Field of View (mm): </h6>
+            <h6> Calculated Field of View (mm)</h6>
             <input type="text" id="calcfov" name="calcfov" value="Field of View" disabled><br><br>
             <button type="button"  id="execute" onclick="execute();"> Execute </button> <br> <br> <br>
         </div>
