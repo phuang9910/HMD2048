@@ -152,9 +152,7 @@
             hiddenElement.download = 'HMD2048.csv';
             hiddenElement.click();
         }
-
-
-
+        
     function execute(){
         document.getElementById("title").style.color= "red"
         document.getElementById("title").innerHTML= "Thank you! Have a nice day :)"
