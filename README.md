@@ -20,10 +20,10 @@
     <div class="row">
         <div class="col-12 text-center">
             <h6> Maximum Roll Length (mm) </h6>
-            <input type="text" id="maxLength" name="maxLength" value=""><br> <br>
+            <input type="text" id="maxLength" name="maxLength" value=""><br>
             <h6>Preferred Installation Height (mm)</h6>
             <input type="text" id="preHeight" name="preHeight" value=""><br><br>
-            <button type="button" id="calculate" onclick="calculate();">Calculate</button> <br> <BR> <BR>
+            <button type="button" id="calculate" onclick="calculate();">Calculate</button> <br> <BR> 
         </div>
 
     </div>
@@ -31,12 +31,12 @@
     <div class="row">
         <div class="col-12 text-center">
             <h6>Lens Focus Length (mm)</h6>
-            <input type="text" id="lensFocus" name="lensFocus" value="Focus Length" disabled><br> <br>
+            <input type="text" id="lensFocus" name="lensFocus" value="Focus Length" disabled><br>
             <h6>Installation Height (mm)</h6>
-            <input type="text" id="instHeight" name="instHeight" value="Installation Height" disabled><br><br>
+            <input type="text" id="instHeight" name="instHeight" value="Installation Height" disabled><br>
             <h6> Calculated Field of View (mm)</h6>
             <input type="text" id="calcfov" name="calcfov" value="Field of View" disabled><br><br>
-            <button type="button" id="execute" onclick="download_csv();"> Create WorkOrder </button> <br> <br> <br>
+            <button type="button" id="execute" onclick="download_csv();"> Create WorkOrder </button> <br> <br>
         </div>
     </div>
 
