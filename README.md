@@ -17,9 +17,6 @@
 <body>
 
     <div class="row">
-        <BR><BR>
-    </div>
-    <div class="row">
         <div class="col-12 text-center">
             <h6> Maximum Roll Length (mm) </h6>
             <input type="text" id="maxLength" name="maxLength" value=""><br> <br>
