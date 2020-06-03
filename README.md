@@ -1,4 +1,5 @@
-﻿<html lang="en">
+
+<html lang="en">
 <head>
     <title>HMD2048 Calculation</title>
     <meta charset="utf-8">
@@ -44,7 +45,6 @@
             <h5> <span id="title" class="text"> </span></h5>
         </div>
     </div>
-    <br> <br>
 
 </body>
 </html>
